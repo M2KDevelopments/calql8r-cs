@@ -1,0 +1,5 @@
+c:\users\martin\documents\visual studio 2012\Projects\CalQl8R\CalQl8R\obj\Debug\CalQl8R.csprojResolveAssemblyReference.cache
+c:\users\martin\documents\visual studio 2012\Projects\CalQl8R\CalQl8R\bin\Debug\CalQl8R.dll
+c:\users\martin\documents\visual studio 2012\Projects\CalQl8R\CalQl8R\bin\Debug\CalQl8R.pdb
+c:\users\martin\documents\visual studio 2012\Projects\CalQl8R\CalQl8R\obj\Debug\CalQl8R.dll
+c:\users\martin\documents\visual studio 2012\Projects\CalQl8R\CalQl8R\obj\Debug\CalQl8R.pdb
